@@ -1,0 +1,1 @@
+# GCP professional cloud architect
